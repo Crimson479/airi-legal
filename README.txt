@@ -1,0 +1,1 @@
+Replace rupeshk13256@gmail.com in privacy.html and terms.html, then upload all files to a static host. Use privacy.html as Discord Privacy Policy URL and terms.html as Terms of Service URL.
