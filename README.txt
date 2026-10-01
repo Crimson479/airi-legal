@@ -1,1 +1,11 @@
-Replace rupeshk13256@gmail.com in privacy.html and terms.html, then upload all files to a static host. Use privacy.html as Discord Privacy Policy URL and terms.html as Terms of Service URL.
+Airi Legal
+
+This repository hosts the official Privacy Policy and Terms of Service for Airi, an AI-powered Discord assistant.
+
+Privacy Policy:
+privacy.html
+
+Terms of Service:
+terms.html
+
+Airi provides AI chat, research, memory, translation, reminders, moderation, and community features.
